@@ -1,0 +1,12 @@
+body {
+    background: lightgoldenrodyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+}
+
+header h1 {
+    margin-right: 10px;
+}
